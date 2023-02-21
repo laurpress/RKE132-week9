@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.AssemblyInfo.cs
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/bin/Debug/net7.0/Week8.2.2
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/bin/Debug/net7.0/Week8.2.2.deps.json
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/bin/Debug/net7.0/Week8.2.2.runtimeconfig.json
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/bin/Debug/net7.0/Week8.2.2.dll
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/bin/Debug/net7.0/Week8.2.2.pdb
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.dll
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/refint/Week8.2.2.dll
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.pdb
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/Week8.2.2.genruntimeconfig.cache
+/Users/laurpress/Projects/Week8.2.2/Week8.2.2/obj/Debug/net7.0/ref/Week8.2.2.dll
